@@ -8,7 +8,7 @@
                 It is designed to streamline and automate core banking operations, ensuring efficiency, accuracy, and seamless customer service. The system acts as the backbone, \
                 connecting various banking modules and enabling smooth interaction between different banking components.',
     'category': 'Banking addons',
-    'author': 'Bdtask Limited(A Leading Software Company)',
+    'author': 'bdtask',
     'company': 'Bdtask Limited',
     'maintainer': '',
     'depends': ['base', 'account_accountant', 'contacts'],
