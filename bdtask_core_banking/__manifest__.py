@@ -3,8 +3,8 @@
 {
     'name': 'Core Banking System',
     'version': '1.0',
-    'summary': 'Core Banking',
-    'description': 'Core Banking',
+    'summary': 'Core Banking 2',
+    'description': 'Core Banking 3',
     'category': 'Core Banking',
     'author': 'Bdtask Limited(A Leading Software Company)',
     'company': 'Bdtask Limited',
