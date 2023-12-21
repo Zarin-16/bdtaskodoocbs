@@ -11,12 +11,10 @@
     'maintainer': '',
     'depends': ['base', 'account_accountant', 'contacts'],
     'website': 'https://www.bdtask.com/',
+    'images': ["static/description/banner.gif"],
     'data': [
     'security/ir.model.access.csv',
-    'images': ["static/description/banner.gif"],
-
     # 'data/demo_data.xml',
-
     'views/link_account.xml',
     'views/product_service.xml',
     'views/res_partner.xml',
@@ -34,8 +32,6 @@
 
     'views/cbs_menus.xml',
     ],
-    
-    
     'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
