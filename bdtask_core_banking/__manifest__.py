@@ -4,11 +4,7 @@
     'name': 'Core Banking System',
     'version': '1.0',
     'summary': 'Core Banking',
-    'description': 'A Core Banking System (CBS) serves as the central nerve system of a bank, \
-                    providing a comprehensive and integrated platform for managing various banking functions.\
-                    It is designed to streamline and automate core banking operations, ensuring efficiency, accuracy, \
-                    and seamless customer service. The system acts as the backbone, \
-                    connecting various banking modules and enabling smooth interaction between different banking components.',
+    'description':'Core Banking System',
     'category': 'Banking addons',
     'author': 'Bdtask Limited(A Leading Software Company)',
     'company': 'Bdtask Limited',
