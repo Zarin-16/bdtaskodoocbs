@@ -5,7 +5,7 @@
     'version': '1.0',
     'summary': 'Core Banking 2',
     'description': 'Core Banking 3',
-    'category': 'Core Banking',
+    'category': 'Banking addons',
     'author': 'Bdtask Limited(A Leading Software Company)',
     'company': 'Bdtask Limited',
     'maintainer': '',
