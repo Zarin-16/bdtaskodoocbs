@@ -13,7 +13,7 @@
     'website': 'https://www.bdtask.com/',
     'data': [
     'security/ir.model.access.csv',
-    'images': ['static/description/banner.gif'],
+    'images': ["static/description/banner.gif"],
 
     # 'data/demo_data.xml',
 
